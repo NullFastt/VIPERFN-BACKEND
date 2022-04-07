@@ -1,0 +1,143 @@
+{
+  "Character": {
+    "ID": "AthenaCharacter:CID_NPC_Athena_Commando_F_RebirthDefault_Henchman",
+    "Variants": [
+      [
+        {
+          "variants": [
+            {
+              "channel": "Material",
+              "active": "Mat1",
+              "owned": []
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  "Backpack": {
+    "ID": "",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "Glider": {
+    "ID": "Glider_Warthog",
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "Pickaxe": {
+    "ID": "Pickaxe_Lockjaw",
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "SkyDiveContrail": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "Dance": {
+    "ID": [
+      "AthenaDance:EID_LazyShuffle",
+      "AthenaDance:EID_Haste1_T98Z9",
+      "AthenaDance:EID_Kittycat",
+      "AthenaDance:EID_Coronet",
+      "AthenaDance:EID_TwistFire_I2VTA",
+      "AthenaDance:EID_EgyptianDance"
+    ],
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "ItemWrap": {
+    "ID": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Variants": [
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      }
+    ]
+  },
+  "MusicPack": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "LoadingScreen": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "BannerIconTemplate": "BRS10DoublePump",
+  "BannerColorTemplate": "DefaultColor22",
+  "vbucks": 100000000,
+  "level": 64,
+  "battlestars": 1,
+  "alien_style_points": 1,
+  "favorites": {}
+}

@@ -1,0 +1,167 @@
+{
+  "Character": {
+    "ID": "AthenaCharacter:CID_757_Athena_Commando_F_WildCat",
+    "Variants": [
+      [
+        {
+          "variants": [
+            {
+              "channel": "Material",
+              "active": "Mat3",
+              "owned": []
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  "Backpack": {
+    "ID": "",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "Glider": {
+    "ID": "AthenaGlider:Glider_MiG",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "Pickaxe": {
+    "ID": "AthenaPickaxe:Pickaxe_ID_294_CandyCane",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "SkyDiveContrail": {
+    "ID": "AthenaSkyDiveContrail:Trails_ID_026_Bats",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "Dance": {
+    "ID": [
+      "AthenaDance:EID_IceKing",
+      "AthenaDance:EID_IndianDance",
+      "AthenaDance:EID_EgyptianDance",
+      "AthenaDance:EID_Zippy",
+      null
+    ],
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      {
+        "variants": []
+      }
+    ]
+  },
+  "ItemWrap": {
+    "ID": [
+      "AthenaItemWrap:Wrap_007_CandyCane",
+      "AthenaItemWrap:Wrap_007_CandyCane",
+      "AthenaItemWrap:Wrap_007_CandyCane",
+      "AthenaItemWrap:Wrap_007_CandyCane",
+      "AthenaItemWrap:Wrap_007_CandyCane",
+      "AthenaItemWrap:Wrap_007_CandyCane",
+      "AthenaItemWrap:Wrap_007_CandyCane"
+    ],
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "MusicPack": {
+    "ID": "AthenaMusicPack:MusicPack_023_OG",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "LoadingScreen": {
+    "ID": "AthenaLoadingScreen:LSID_055_Valkyrie",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "BannerIconTemplate": "NewsletterBanner",
+  "BannerColorTemplate": "DefaultColor22",
+  "vbucks": 100000000,
+  "level": 132,
+  "battlestars": 9999999,
+  "alien_style_points": 696969,
+  "favorites": {}
+}

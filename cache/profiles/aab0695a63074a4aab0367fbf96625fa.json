@@ -1,0 +1,145 @@
+{
+  "Character": {
+    "ID": "AthenaCharacter:CID_527_Athena_Commando_F_StreetFashionRed",
+    "Variants": [
+      [
+        {
+          "variants": [
+            {
+              "channel": "Material",
+              "active": "Mat1",
+              "owned": []
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  "Backpack": {
+    "ID": "AthenaBackpack:BID_023_Pinkbear",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "Glider": {
+    "ID": "Glider_Warthog",
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "Pickaxe": {
+    "ID": "AthenaPickaxe:Pickaxe_ID_116_Celestial",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "SkyDiveContrail": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "Dance": {
+    "ID": [
+      "AthenaDance:EID_KPopDance01",
+      "AthenaDance:EID_StepBreakdance",
+      "AthenaDance:EID_SneakingTraversal",
+      "AthenaDance:EID_Layers_BBZ49",
+      "AthenaDance:EID_Grasshopper_8D51K",
+      "AthenaDance:EID_GuitarWalk"
+    ],
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "ItemWrap": {
+    "ID": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Variants": [
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      }
+    ]
+  },
+  "MusicPack": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "LoadingScreen": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "BannerIconTemplate": "FounderTier5Banner2",
+  "BannerColorTemplate": "DefaultColor22",
+  "vbucks": 100000000,
+  "level": 88,
+  "battlestars": 9999999,
+  "alien_style_points": 696969,
+  "favorites": {}
+}
